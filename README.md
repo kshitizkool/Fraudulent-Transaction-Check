@@ -17,4 +17,3 @@ Your task is to execute the process for proactive detection of fraud while answe
 #### 8.Assuming these actions have been implemented, how would you determine if they work?
 
 ![download](https://user-images.githubusercontent.com/87076914/189179192-e5c6edd5-7edc-4578-b538-b92935544dfd.png)
-!
