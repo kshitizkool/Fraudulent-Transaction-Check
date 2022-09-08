@@ -14,4 +14,5 @@ Your task is to execute the process for proactive detection of fraud while answe
 5.What are the key factors that predict fraudulent customer?
 6.Do these factors make sense? If yes, How? If not, How not?
 7.What kind of prevention should be adopted while company update its infrastructure?
-8.Assuming these actions have been implemented, how would you determine if they work?**
+8.Assuming these actions have been implemented, how would you determine if they work?
+**
